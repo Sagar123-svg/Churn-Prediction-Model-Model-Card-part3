@@ -1,0 +1,15 @@
+{
+  "selected_threshold": 0.42,
+  "accuracy": 0.8645,
+  "precision_class_1": 0.7622,
+  "recall_class_1": 0.8148,
+  "f1_score_class_1": 0.7876,
+  "roc_auc": 0.9124,
+  "pr_auc": 0.8561,
+  "confusion_matrix": {
+    "true_negative": 342,
+    "false_positive": 34,
+    "false_negative": 25,
+    "true_positive": 110
+  }
+}
